@@ -805,14 +805,29 @@ p {
     background: url(../images/dd.jpeg) center top;
 }
 .ch-img-2 { 
-	background:url(../images/km.jpg) -9px 90px;
+	background:url(../images/km.jpg) center ;
 }
 .ch-img-3 { 
-	background:url(../images/sourav.jpg) -9px 0px;
+	background:url(../images/ss.jpg) center;
 	background-size: cover;
 }
 .ch-img-4 { 
-	background:url(../images/joy3.jpg) -45px -15px;
+	background:url(../images/ms2.png) center;
+}
+.ch-img-5 { 
+	background:url(../images/mds.jpg) center;
+}
+.ch-img-6 { 
+	background:url(../images/sb.jpg) center;
+}
+.ch-img-7 { 
+	background:url(../images/sc.jpg) center;
+}
+.ch-img-8 { 
+	background:url(../images/ak.jpg) center;
+}
+.ch-img-9 { 
+	background:url(../images/mds.jpg) center;
 }
 .ch-info {
 	position: absolute;
