@@ -806,13 +806,15 @@ p {
 }
 .ch-img-2 { 
 	background:url(../images/km.jpg) center ;
+	background-size: cover;
 }
 .ch-img-3 { 
 	background:url(../images/ss.jpg) center;
 	background-size: cover;
 }
 .ch-img-4 { 
-	background:url(../images/ms2.png) center;
+	background:url(../images/ms.jpg) center;
+	background-size: cover;
 }
 .ch-img-5 { 
 	background:url(../images/mds.jpg) center;
@@ -828,6 +830,44 @@ p {
 }
 .ch-img-9 { 
 	background:url(../images/mds.jpg) center;
+}
+.ch-img-10 { 
+	background:url(../images/mds.jpg) center;
+}
+.ch-img-11 { 
+	background:url(../images/sourav.jpg) -9px 0px;
+	background-size: cover;
+}
+.ch-img-12 { 
+	background:url(../images/joy3.jpg) center;
+	background-size: cover;
+}
+.ch-img-13 { 
+	background:url(../images/mds.jpg) center;
+}
+.ch-img-14 { 
+	background:url(../images/mds.jpg) center;
+}
+.ch-img-15 { 
+	background:url(../images/mds.jpg) center;
+}
+.ch-img-16 { 
+	background:url(../images/mds.jpg) center;
+}
+.ch-img-17 { 
+	background:url(../images/deep.jpg) center;
+	background-size: cover;
+}
+.ch-img-18 { 
+	background:url(../images/mds.jpg) center;
+}
+.ch-img-19 { 
+	background:url(../images/rnb2.jpg) center;
+	background-size: cover;
+}
+.ch-img-20 { 
+	background:url(../images/rano.jpg) center;
+	background-size: cover;
 }
 .ch-info {
 	position: absolute;
