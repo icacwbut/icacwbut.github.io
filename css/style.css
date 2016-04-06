@@ -802,17 +802,17 @@ p {
 	border-radius: 60%;
 }
 .ch-img-1 {
-    background: url(../images/t1.jpg) center top;
+    background: url(../images/dd.jpeg) center top;
 }
 .ch-img-2 { 
-	background:url(../images/t2.jpg) center top;
+	background:url(../images/deep.jpg) center top;
 }
 .ch-img-3 { 
-	background:url(../images/t3.jpg) -9px 0px;
+	background:url(../images/elephant.jpg) -9px 0px;
 	background-size: cover;
 }
 .ch-img-4 { 
-	background:url(../images/t4.jpg) -45px -15px;
+	background:url(../images/joy3.jpg) -45px -15px;
 }
 .ch-info {
 	position: absolute;
