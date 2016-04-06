@@ -824,6 +824,7 @@ p {
 }
 .ch-img-7 { 
 	background:url(../images/sc.jpg) center;
+	background-size: cover;
 }
 .ch-img-8 { 
 	background:url(../images/ak.jpg) center;
@@ -849,7 +850,8 @@ p {
 	background:url(../images/mds.jpg) center;
 }
 .ch-img-15 { 
-	background:url(../images/mds.jpg) center;
+	background:url(../images/bd.jpg) center;
+	background-size: cover;
 }
 .ch-img-16 { 
 	background:url(../images/mds.jpg) center;
