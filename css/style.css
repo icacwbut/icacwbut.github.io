@@ -828,7 +828,8 @@ p {
 	background:url(../images/mds.jpg) center;
 }
 .ch-img-10 { 
-	background:url(../images/mds.jpg) center;
+	background:url(../images/tg.jpg) center;
+	background-size: cover;
 }
 .ch-img-11 { 
 	background:url(../images/sourav.jpg) -9px 0px;
@@ -839,24 +840,26 @@ p {
 	background-size: cover;
 }
 .ch-img-13 { 
-	background:url(../images/mds.jpg) center;
+	background:url(../images/ts.jpg) center;
 }
 .ch-img-14 { 
-	background:url(../images/mds.jpg) center;
+	background:url(../images/blank.png) center;
 }
 .ch-img-15 { 
 	background:url(../images/bd.jpg) center;
 	background-size: cover;
 }
 .ch-img-16 { 
-	background:url(../images/mds.jpg) center;
+	background:url(../images/sd.jpg) center;
+	background-size: cover;
 }
 .ch-img-17 { 
 	background:url(../images/deep.jpg) center;
 	background-size: cover;
 }
 .ch-img-18 { 
-	background:url(../images/mds.jpg) center;
+	background:url(../images/sch.jpg) center;
+	background-size: cover;
 }
 .ch-img-19 { 
 	background:url(../images/rnb2.jpg) center;
@@ -865,6 +868,13 @@ p {
 .ch-img-20 { 
 	background:url(../images/rano.jpg) center;
 	background-size: cover;
+}
+.ch-img-21 { 
+	background:url(../images/blank.png) center;
+	background-size: cover;
+}
+.ch-img-sa {
+    background: url(../images/sa.jpg) center top;
 }
 .ch-info {
 	position: absolute;
