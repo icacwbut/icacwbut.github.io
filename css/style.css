@@ -36,21 +36,21 @@ body a:hover{
 }
 /*--baner--*/
 .banner {
-   background:url(../images/a.jpg)no-repeat 0px 0px;
+   background:url(../images/a.jpg)no-repeat  0px 0px;
    -webkit-background-size:cover;
     background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-   min-height:700px;
-   position: relative;
+   min-height:1000px;
+   position: center;
 }
 .banner-info {
     background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    min-height: 700px;
+    min-height: 1000px;
     background: rgba(0, 0, 0, 0.41);
 }
 .logo h1 {
@@ -836,14 +836,14 @@ p {
 	background-size: cover;
 }
 .ch-img-12 { 
-	background:url(../images/joy2.jpg) center;
+	background:url(../images/joy3.jpg) center;
 	background-size: cover;
 }
 .ch-img-13 { 
 	background:url(../images/ts.jpg) center;
 }
 .ch-img-14 { 
-	background:url(../images/blank.png) center;
+	background:url(../images/pd.png) center;
 }
 .ch-img-15 { 
 	background:url(../images/bd.jpg) center;
@@ -870,9 +870,26 @@ p {
 	background-size: cover;
 }
 .ch-img-21 { 
-	background:url(../images/blank.png) center;
+	background:url(../images/blank.jpg) center;
 	background-size: cover;
 }
+.ch-img-22 { 
+	background:url(../images/sbd.jpg) center;
+	background-size: cover;
+}
+.ch-img-23 { 
+	background:url(../images/bg.jpg) center;
+	background-size: cover;
+}
+.ch-img-24 { 
+	background:url(../images/vc.jpg) center;
+	
+}
+.ch-img-25 { 
+	background:url(../images/ab.jpg) center;
+	background-size: cover;
+}
+
 .ch-img-sa {
     background: url(../images/sa.jpg) center top;
 }

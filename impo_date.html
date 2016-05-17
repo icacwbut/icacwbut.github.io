@@ -2,26 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    padding: 12px 16px;
-}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-</style>
-<title>Registration | ICAC</title>
+<title>Speakers | ICAC</title>
 <!--mobile apps-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -33,6 +14,7 @@
 <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
 <link href="css/style.css" type="text/css" rel="stylesheet" media="all">
 <link rel="stylesheet" href="css/prettySticky.css" type="text/css">
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 <!-- //Custom Theme files -->
 <!-- js -->
 <script src="js/jquery-1.11.1.min.js"></script> 
@@ -70,11 +52,11 @@
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-right">
 								<li><a href="index.html" class="link-kumya"><span data-letters="Home">Home</span></a></li>
-								<li><a href="impo_date.html" class="link-kumya"><span data-letters="Important Dates">Important Dates</span></a></li>
-								<li><a href="cfp.html" class="link-kumya"><span data-letters="Call For Paper">Call For Paper</span></a></li>								
+								<li><a href="impo_date.html" class="link-kumya active"><span data-letters="Important Dates">Important Dates</span></a></li>
+								<li><a href="cfp.html" class="link-kumya"><span data-letters="Call For Papers">Call For Papers</span></a></li>	
 								<li><a href="committee.html" class="link-kumya"><span data-letters="Committee">Committee</span></a></li>
-								<li><a href="speakers.html" class="link-kumya"><span data-letters="Speakers">Speakers</span></a></li>
-								<li><a href="registration.html" class="link-kumya active"><span data-letters="Registration">Registration</span></a></li>		
+								<li><a href="speakers.html" class="link-kumya "><span data-letters="Speakers">Speakers</span></a></li>
+								<li><a href="registration.html" class="link-kumya"><span data-letters="Registration">Registration</span></a></li>		
 								<li><a href="contact.html" class="link-kumya"><span data-letters="Submit">Submit</span></a></li>
 							</ul>	
 							<div class="clearfix"> </div>
@@ -84,45 +66,113 @@
 			</div>	
 			<!--//navigation-->
 			<div class="banner-text">
-				<h2>REGISTRATION</h2>
-				
-				
+				<h2>Important Dates</h2>
 			</div>	
 		</div>
 	</div>
 	<!--//banner-->
-	<!-- contact -->
-	<div class="contact">
+	<!--about-->
+	<!--//about-->
+	
+	<!-- //testimonials -->
+	<!--team-->
+	<div class="team">
 		<div class="container">
-			<div class="contact-grids">
-				<div class="col-md-6 contact-grid">
-					<iframe src="https://www.google.co.in/maps/place/Maulana+Abul+Kalam+Azad+University+of+Technology/@22.5965408,88.417529,15z/data=!4m2!3m1!1s0x0:0x5db3ee28f1b792d5" allowfullscreen></iframe>
-				</div>
-				<div class="col-md-6 contact-grid">
-					<h3 class="title">Registration Form</h3>
-					<p>FIll up the form to register. </p>
-					<form action="reg.php" method="post">
-						<input type="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
-						<input type="text" class="input-mdl" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" required="">
-						<input type="text" value="Telephone" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Telephone';}" required="">
-						<textarea type="text"  onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Address';}" required="">Address</textarea>
-                        <input type="text" value="Designation" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Designation';}" required="">
-						<input type="submit" value="Register!" >
-					</form>
-				</div>
-				<div class="clearfix"> </div>
+			<h3 class="title">Important Dates (Coming Soon)</h3>
+			<div class="team-grids">
+				<section class="main">
+					<ul class="ch-grid">
+						<!--
+                        <li>
+							<div class="ch-item ch-img-10">
+								<div class="ch-info">
+									
+									<p>Timam Ghosh</p>
+									
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="ch-item ch-img-11">
+								<div class="ch-info">
+									
+									<p>Sourav Hati</p>
+									
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="ch-item ch-img-12">
+								<div class="ch-info">
+									<p>Joy Samaddar</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="ch-item ch-img-13">
+								<div class="ch-info">
+									<p>Tapatosh Sadhu</p>
+								</div>
+							</div>
+						</li>
+                        
+                        <li>
+							<div class="ch-item ch-img-14">
+								<div class="ch-info">
+									<p>Prasanjit Dey</p>
+								</div>
+							</div>
+						</li>
+                        <li>
+							<div class="ch-item ch-img-15">
+								<div class="ch-info">
+									<p>Biplab Das</p>
+								</div>
+							</div>
+						</li>
+                        <li>
+							<div class="ch-item ch-img-16">
+								<div class="ch-info">
+									<p>Priti Das</p>
+								</div>
+							</div>
+						</li>
+                        <li>
+							<div class="ch-item ch-img-17">
+								<div class="ch-info">
+									<p>Deepshubhra Guha Roy</p>
+								</div>
+							</div>
+						</li>
+                        <li>
+							<div class="ch-item ch-img-18">
+								<div class="ch-info">
+									<p>Suchana Dutta</p>
+								</div>
+							</div>
+						</li>
+                        <li>
+							<div class="ch-item ch-img-19">
+								<div class="ch-info">
+									<p>Rudra Nil Basu</p>
+								</div>
+							</div>
+						</li>
+                        <li>
+							<div class="ch-item ch-img-20">
+								<div class="ch-info">
+									<p>Ranodeep Saha</p>
+								</div>
+							</div>
+						</li>
+                        -->
+					</ul>
+				</section>
 			</div>
-			<div class="address">
-				<ul>
-					<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>BF-142, Salt Lake Sector-I, Kolkata - 64</li>
-					<li><b class="phone">CALL US :</b> 033 2321 1327</li>
-					<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="#"> 2016icac@gmail.com</a></li>
-				</ul>
-			</div>
-
 		</div>
 	</div>
-	<!-- //contact -->
+	<!--//team-->
+	<!--footer-->
 	<!--footer-->
 	<div class="footer">
 		<div class="clearfix"> </div>
@@ -152,15 +202,11 @@
 	</div>
 	<!--//footer-->
 	<!-- script-for prettySticky -->
-	<script src="js/prettySticky.js"></script>
+	
 	<!--//script-for prettySticky -->
 	<!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/bootstrap.js"></script>
-	
-	
-
-	
 </body>
-</html>
+</html>   
