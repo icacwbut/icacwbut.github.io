@@ -27,6 +27,11 @@ h1,h2,h3,h4,h5,h6{
 h1{
     color: #000066;
 }
+.comm-name p{
+    font-family: "Times New Roman", Times, serif;
+    /*font-size: 20px;*/
+    font-weight: bold;
+}
 .papsub{
     background-color: aqua;
 }
