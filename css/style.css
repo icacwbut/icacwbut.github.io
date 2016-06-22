@@ -2794,3 +2794,13 @@ h3.title {
 	border: 1px solid #fff;
 	padding: 7px;
 }
+.banner:hover {
+   background:url(../images/a1.jpg)no-repeat  0px 0px;
+   -webkit-background-size:cover;
+    background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+   min-height:1000px;
+   position: center;
+}
