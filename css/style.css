@@ -21,7 +21,7 @@ body a{
 	text-decoration:none;
 }
 h1,h2,h3,h4,h5,h6{
-	margin:0;	
+	margin:0;
 	font-family: 'Abel-Regular';
 }
 h1{
@@ -58,7 +58,7 @@ body a:hover{
 }
 /*--baner--*/
 .banner {
-   background:url(../images/a.jpg)no-repeat  0px 0px;
+   background:url(../images/a2.jpg)no-repeat  0px 0px;
    -webkit-background-size:cover;
     background-size:cover;
 	-moz-background-size:cover;
@@ -362,7 +362,7 @@ ul.nav.navbar-right {
 	-moz-border-radius: 50%;
 	-ms-border-radius: 50%;
 	-o-border-radius: 50%;
-	
+
 }
 .callbacks_here a:after {
     border-color: #FFFFFF;
@@ -538,7 +538,7 @@ p {
 /*-- //services --*/
 /*--slid--*/
 .slid {
-  background: url(../images/a.jpg) no-repeat 0px 0px;
+  background: url(../images/a2.jpg) no-repeat 0px 0px;
   background-size: cover;
   text-align: center;
 }
@@ -646,8 +646,8 @@ p {
 
 .footer-bottom a span:before {
   content:'';
-  width: 0; 
-  height: 0; 
+  width: 0;
+  height: 0;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
   border-top: 5px solid #555;
@@ -821,97 +821,97 @@ p {
 .ch-img-1 {
     background: url(../images/dd.jpeg) center top;
 }
-.ch-img-2 { 
+.ch-img-2 {
 	background:url(../images/km.jpg) center ;
 	background-size: cover;
 }
-.ch-img-3 { 
+.ch-img-3 {
 	background:url(../images/ss.jpg) center;
 	background-size: cover;
 }
-.ch-img-4 { 
+.ch-img-4 {
 	background:url(../images/ms.jpg) center;
 	background-size: cover;
 }
-.ch-img-5 { 
+.ch-img-5 {
 	background:url(../images/mds.jpg) center;
 }
-.ch-img-6 { 
+.ch-img-6 {
 	background:url(../images/sb.jpg) center;
 }
-.ch-img-7 { 
+.ch-img-7 {
 	background:url(../images/sc.jpg) center;
 	background-size: cover;
 }
-.ch-img-8 { 
+.ch-img-8 {
 	background:url(../images/ak.jpg) center;
 }
-.ch-img-9 { 
+.ch-img-9 {
 	background:url(../images/mds.jpg) center;
 }
-.ch-img-10 { 
+.ch-img-10 {
 	background:url(../images/tg.jpg) center;
 	background-size: cover;
 }
-.ch-img-11 { 
+.ch-img-11 {
 	background:url(../images/sourav.jpg) -9px 0px;
 	background-size: cover;
 }
-.ch-img-12 { 
+.ch-img-12 {
 	background:url(../images/joy3.jpg) center;
 	background-size: cover;
 }
-.ch-img-13 { 
+.ch-img-13 {
 	background:url(../images/ts.jpg) center;
 }
-.ch-img-14 { 
+.ch-img-14 {
 	background:url(../images/pd.png) center;
 }
-.ch-img-15 { 
+.ch-img-15 {
 	background:url(../images/bd.jpg) center;
 	background-size: cover;
 }
-.ch-img-16 { 
+.ch-img-16 {
 	background:url(../images/sd.jpg) center;
 	background-size: cover;
 }
-.ch-img-17 { 
+.ch-img-17 {
 	background:url(../images/deep.jpg) center;
 	background-size: cover;
 }
-.ch-img-18 { 
+.ch-img-18 {
 	background:url(../images/sch.jpg) center;
 	background-size: cover;
 }
-.ch-img-19 { 
+.ch-img-19 {
 	background:url(../images/rnb2.jpg) center;
 	background-size: cover;
 }
-.ch-img-20 { 
+.ch-img-20 {
 	background:url(../images/rano.jpg) center;
 	background-size: cover;
 }
-.ch-img-21 { 
+.ch-img-21 {
 	background:url(../images/blank.jpg) center;
 	background-size: cover;
 }
-.ch-img-22 { 
+.ch-img-22 {
 	background:url(../images/sbd.jpg) center;
 	background-size: cover;
 }
-.ch-img-23 { 
+.ch-img-23 {
 	background:url(../images/bg.jpg) center;
 	background-size: cover;
 }
-.ch-img-24 { 
+.ch-img-24 {
 	background:url(../images/vc.jpg) center;
-	
+
 }
-.ch-img-25 { 
+.ch-img-25 {
 	background:url(../images/ab.jpg) center;
 	background-size: cover;
 }
-.ch-img-26 { 
+.ch-img-26 {
 	background:url(../images/RP.jpg) center;
 	background-size: cover;
 }
@@ -928,7 +928,7 @@ p {
 .ch-img-sbis {
     background: url(../images/sbis.jpg) center top;
 }
-.ch-img-sph { 
+.ch-img-sph {
 	background:url(../images/inf.jpg) center;
 	background-size: cover;
 }
@@ -946,7 +946,7 @@ p {
 	-moz-transform: scale(0);
 	-o-transform: scale(0);
 	-ms-transform: scale(0);
-	transform: scale(0);	
+	transform: scale(0);
 	-webkit-backface-visibility: hidden; /*for a smooth font */
 }
 .ch-info h3 {
@@ -975,7 +975,7 @@ p {
 	-moz-transform: scale(1);
 	-o-transform: scale(1);
 	-ms-transform: scale(1);
-	transform: scale(1);	
+	transform: scale(1);
 }
 .ch-grid {
 	margin:0;
@@ -1117,7 +1117,7 @@ p {
    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
    filter: alpha(opacity=100);
    opacity: 1;
-}		
+}
 /*---//gallery----*/
 /*----blog----*/
 .blog-grids {
@@ -1295,7 +1295,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
   margin: 0 0 1em;
 }
 .response-text-right ul{
-	padding:0;	
+	padding:0;
 	text-align: right;
 }
 .response-text-right ul li{
@@ -1309,7 +1309,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
 	text-decoration:none;
 }
 .response-text-right ul li a:hover{
-	color:#000066;	
+	color:#000066;
 }
 .coment-form {
     margin-top: 4em;
@@ -1427,7 +1427,7 @@ h3.hdg {
 .label {
   font-weight: 300 !important;
   border-radius:4px;
-}  
+}
 .grid_5{
 	background:none;
 	padding:2em 0;
