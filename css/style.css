@@ -921,6 +921,7 @@ p {
 }
 .ch-img-is {
     background: url(../images/is.jpg) center top;
+    background-size: cover;
 }
 .ch-img-jb {
     background: url(../images/jb.jpg) center top;
